@@ -294,7 +294,6 @@
 		18614E5426EE65C700B01A17 /* Color */ = {
 			isa = PBXGroup;
 			children = (
-				18614E5626EE65EC00B01A17 /* Collection */,
 				18D2DA2826E8BC6200451E98 /* UIColor+ColorScheme.swift */,
 			);
 			path = Color;
@@ -437,6 +436,7 @@
 				189044A626EEB14900B89693 /* Formatter */,
 				18614E5526EE65CF00B01A17 /* UI */,
 				18614E5426EE65C700B01A17 /* Color */,
+				18614E5626EE65EC00B01A17 /* Collection */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -870,7 +870,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9C936B377548B9DD36E5C1D8 /* Pods-Nasa.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UZPJ8MF9DL;
@@ -880,7 +879,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bahadirseyfi.Nasa;
+				PRODUCT_BUNDLE_IDENTIFIER = com.onursir.Nasa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -891,7 +890,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3D66F297EA02E767E56DB81B /* Pods-Nasa.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UZPJ8MF9DL;
@@ -901,7 +899,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bahadirseyfi.Nasa;
+				PRODUCT_BUNDLE_IDENTIFIER = com.onursir.Nasa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

@@ -2,7 +2,7 @@
 //  Constants.swift
 //  Nasa
 //
-//  Created by bahadir on 8.09.2021.
+//  Created by Onur on 11.11.2022
 //
 
 struct Constants {
@@ -41,9 +41,9 @@ struct Constants {
                 static let genericError = "Generic Error"
                 static let decodingError = "Decoding Error"
                 static let noResultsFound = "No results found"
-                static let decoding = "Beklenmeyen bir hata oluştu."
-                static let networkError = "Beklenmeyen bir hata oluştu."
-                static let timeout = "İstek zaman aşımına uğradı, daha sonra tekrar deneyiniz."
+                static let decoding = "An unexpected error has occurred."
+                static let networkError = "An unexpected error has occurred."
+                static let timeout = "The request timed out, try again later."
             }
             enum Label {
                 static let cameras = "Cameras"

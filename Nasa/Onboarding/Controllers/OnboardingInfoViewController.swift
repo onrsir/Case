@@ -2,7 +2,7 @@
 //  OnboardingInfoViewController.swift
 //  Nasa
 //
-//  Created by Onur on 04.11.2022
+//  Created by Onur on 16.11.2022
 //
 
 
@@ -73,7 +73,7 @@ final class OnboardingInfoViewController: OnboardingViewController {
         nextButton.layer.borderWidth = 2
         nextButton.layer.borderColor = UIColor.white.cgColor
         nextButton.layer.cornerRadius = 30
-        nextButton.setTitle("NEXT", for: .normal)
+        nextButton.setTitle("Let's GO", for: .normal)
         nextButton.titleLabel?.font = .systemFont(ofSize: 17, weight: .heavy)
         nextButton.titleLabel?.textColor = .white
         nextButton.addTarget(self, action: #selector(didTapNextButton), for: .touchUpInside)

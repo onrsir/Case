@@ -2,7 +2,7 @@
 //  OnboardingPageViewController.swift
 //  Nasa
 //
-//  Created by Onur on 04.11.2022
+//  Created by Onur on 16.11.2022
 //
 
 
@@ -18,17 +18,17 @@ class OnboardingPageViewController: UIPageViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        view.backgroundColor = .nasaOrange
+        view.backgroundColor = .nasaGreen
 
         pages = [
             OnboardingInfoViewController(
                 title: "Nasa App",
-                subtitle: "For Appcent Case.",
+                subtitle: "Appcent Case",
                 animation: "space"
             ),
             OnboardingInfoViewController(
                 title: "Nasa Photos",
-                subtitle: "See More",
+                subtitle: "Onur Sır",
                 animation: "transactions"
             )
         ]
