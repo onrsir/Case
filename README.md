@@ -2,8 +2,8 @@
 
 The libraries i use:
 
-Alamofire
-Hero
+-Alamofire
+-Hero
 Lottie
 SDWebImage
 NVActivityIndicatorView
