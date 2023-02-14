@@ -21,9 +21,7 @@ Categorizing according to the camera from which the image was taken.
 
 Collage photos the way you want.
 
-Clicking on images
-
-It gives information about the photo.
+Clicking on images it gives information about the photo.
 
 ![Fotoram io](https://user-images.githubusercontent.com/115572997/218600221-fb2d57d5-01eb-44fb-bf7d-3784cde45aa3.jpg)
 ![Fotoram io (1)](https://user-images.githubusercontent.com/115572997/218601777-3ee72fcd-34f8-47b4-96cc-3cd6c77d028d.jpg)
