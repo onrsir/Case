@@ -25,15 +25,10 @@ Clicking on images
 
 It gives information about the photo.
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 33 22](https://user-images.githubusercontent.com/115572997/218599905-548d3cda-51d0-4d67-9feb-967203c49178.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 33 48](https://user-images.githubusercontent.com/115572997/218599921-6415c73c-99bc-432a-ad01-08998891fd6a.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 34 16](https://user-images.githubusercontent.com/115572997/218599936-7f6d7b05-cdeb-4a2f-a8d7-8e746e754ef6.png)
-![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02.34.47.png…![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 34 56](https://user-images.githubusercontent.com/115572997/218599960-33dc9e5d-01f8-406a-a13d-3498c8a4c3aa.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 35 05](https://user-images.githubusercontent.com/115572997/218599962-70b81b0b-c885-476b-bd8c-6c6a6b98ad90.png)
-]()
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 35 12](https://user-images.githubusercontent.com/115572997/218599946-59ed4833-05a1-45c1-8749-396ea5fb3190.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-14 at 02 39 47](https://user-images.githubusercontent.com/115572997/218599992-ee5490c9-fa0b-407e-b468-28413df3ba57.png)
-
 ![Fotoram io](https://user-images.githubusercontent.com/115572997/218600221-fb2d57d5-01eb-44fb-bf7d-3784cde45aa3.jpg)
+![Fotoram io (1)](https://user-images.githubusercontent.com/115572997/218601777-3ee72fcd-34f8-47b4-96cc-3cd6c77d028d.jpg)
+![Fotoram io (2)](https://user-images.githubusercontent.com/115572997/218601782-ac3bcc8f-aa3a-4492-8529-abca8e0efc67.jpg)
+![Fotoram io (3)](https://user-images.githubusercontent.com/115572997/218601787-e6a23778-3bd8-4b42-a186-29cda87724bd.jpg)
+
 
 
